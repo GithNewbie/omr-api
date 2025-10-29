@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+#
+# Mở terminal và chạy lệnh sau:
+# uvicorn main:app --reload
+#
+# Server sẽ chạy tại: http://127.0.0.1:8000
+# Bạn có thể xem tài liệu API (Swagger UI) tại: http://127.0.0.1:8000/docs
