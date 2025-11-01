@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore YOLO dataset folder
+yolo_dataset/
+
+# Ignore runs folder (common for YOLO results)
+runs/
+
+# Ignore all ZIP files
+*.zip
